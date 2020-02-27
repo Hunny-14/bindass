@@ -50,7 +50,7 @@ export class GridComponent implements OnInit {
     ];
 
     this.columnDefinitions2 = [];
-
+    //random
     
 
     this.gridOptions1= {
