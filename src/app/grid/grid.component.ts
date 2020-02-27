@@ -73,10 +73,7 @@ export class GridComponent implements OnInit {
       enableAddRow             : false,
       leaveSpaceForNewRows     : true,
       autoEdit                 : false,
-      pagination:{
-        pageSizes : [5, 10, 15, 20, 25, 50, 75, 100],
-        pageSize : 5
-      }
+      
     }
 
 
